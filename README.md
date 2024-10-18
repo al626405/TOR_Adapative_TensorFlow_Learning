@@ -1,6 +1,3 @@
-Here’s a complete README in Markdown format for your Python script that integrates Tor for traffic routing:
-
-```markdown
 # Tor Traffic Routing Script with Adaptive Machine Learning
 
 This Python script routes traffic through the **Tor network** using **Tor's SOCKS5 proxy**. It ensures anonymity by making all requests through the Tor service, while also employing a machine learning model to adapt based on traffic patterns.
@@ -74,11 +71,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## Contact
 
 For any inquiries, please reach out via email at [alexisgllecerc@gmail.com](mailto:alexisgllecerc@gmail.com).
-```
-
-### Instructions for Use
-1. Copy the above Markdown code into a file named `README.md`.
-2. Modify the **Contact** section with your actual email.
-3. Place this README file in the same directory as your Python script for easy access.
-
-This README provides clear instructions on installation, usage, and details about the script's functionality, making it user-friendly.
