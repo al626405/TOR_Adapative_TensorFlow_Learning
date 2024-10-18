@@ -56,11 +56,11 @@ python tor_ai_script.py <target_ip> <target_port>
 
 ### Example
 
-To route traffic to a target IP (e.g., 93.184.216.34) on port 80, use the following command:
+To route traffic to a target IP (e.g., another internal IP) on port 80, use the following command:
 
 ```bash
-python tor_ai_script.py 93.184.216.34 80
-```
+python tor_ai_script.py 127.0.0.1 80
+...
 
 ## License
 
@@ -72,4 +72,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 ## Contact
 
-For any inquiries, please reach out via email at [alexisgllecerc@gmail.com](mailto:alexisgllecerc@gmail.com).
+For any inquiries, please reach out via email at [alexis.gl.lecerc@proton.me](mailto:alexis.gl.lecerc@proton.me).
