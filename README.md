@@ -60,7 +60,7 @@ To route traffic to a target IP (e.g., another internal IP) on port 80, use the 
 
 ```bash
 python tor_ai_script.py 127.0.0.1 80
-...
+```
 
 ## License
 
